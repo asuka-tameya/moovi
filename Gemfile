@@ -32,6 +32,8 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+gem 'mechanize'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
@@ -46,3 +48,5 @@ end
 
 # pry
 gem 'pry-rails'
+gem 'devise'
+gem 'paperclip'
